@@ -83,8 +83,7 @@ main {
 }
 
 .weather-icon {
-    font-size: 45px;
-    margin-top: 15px;
+    width: 90px;
 }
 
 .weather-unit {
