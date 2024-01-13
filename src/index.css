@@ -108,4 +108,9 @@ main {
 
 .weather-forecast-temperatures {
     display: flex;
+    justify-content: space-between;
+}
+
+.weather-forecast-icon {
+    width: 50px;
 }
