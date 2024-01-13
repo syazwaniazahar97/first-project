@@ -91,3 +91,17 @@ main {
     margin-top: 20px;
     font-weight: bold;
 }
+
+.weather-forecast {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.weather-forecast-date {
+    font-size: 17px;
+}
+
+.weather-forecast-temperature {
+    font-size: 14px;
+}
