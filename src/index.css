@@ -98,10 +98,14 @@ main {
     justify-content: space-around;
 }
 
+.weather-forecast-day {
+    text-align: center;
+}
+
 .weather-forecast-date {
     font-size: 17px;
 }
 
-.weather-forecast-temperature {
-    font-size: 14px;
+.weather-forecast-temperatures {
+    display: flex;
 }
